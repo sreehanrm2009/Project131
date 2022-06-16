@@ -1,0 +1,15 @@
+body {
+      background-size: cover;
+      background-position: center;
+      font-family: 'Montserrat', sans-serif;
+}
+
+button {
+      font-family: inherit;
+      margin: 20px;
+      padding: 10px;
+}
+
+.bottom {
+      margin-bottom: 500px;
+}
